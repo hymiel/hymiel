@@ -1,4 +1,6 @@
-### LEE HYUN KYOUNG
+<img src="https://capsule-render.vercel.app/api?text=LEE HYUN KYOUNG&fontColor=FCC4C4&type=soft&color=black&animation=twinkling&fontSize=10px"
+/>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhymiel&count_bg=%23FCC4C4&title_bg=%23FCC4C4&icon=hey.svg&icon_color=%23FFFFFF&title=Hello&edge_flat=false)](https://github.com/hymiel)
 
 <div align="center">
